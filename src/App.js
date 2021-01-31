@@ -6,7 +6,6 @@ import Error404 from './pages/Error404';
 import Portfolio from './pages/Portfolio';
 import CV from './pages/CV';
 
-
 function App() {
   return (
     <div className="App">
