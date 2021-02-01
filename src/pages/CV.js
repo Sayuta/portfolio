@@ -51,18 +51,23 @@ const CV = () => {
             <div className="row">
             <div className="col-md-4 col-sm-12">
                     <div className="row">
-                    <h2>Sayuta Jaspers</h2>
-                    <h4>Junior Software Developer</h4>
-                    <p>
-                    Lupinestraat 131<br/>
-                    6466 SE Kerkrade<br/>
-                    (+31) 06 29 31 97 07<br/>
-                    sayuta40@hotmail.com<br/>
-                    www.linkedin.com/in/sayuta-jaspers<br/><br/>
+                        <div className="col">
+                            <div className="col text-center">
+                                <img src="./kop-say.png" />
+                                <h2>Sayuta Jaspers</h2>
+                                <h4>Junior Software Developer</h4>
+                            </div>
+                            <p>
+                            Lupinestraat 131<br/>
+                            6466 SE Kerkrade<br/>
+                            (+31) 06 29 31 97 07<br/>
+                            sayuta40@hotmail.com<br/>
+                            www.linkedin.com/in/sayuta-jaspers<br/><br/>
 
-                    Rijbewijs: B<br/>
-                    Eigen vervoer: Ja<br/>
-                    </p>
+                            Rijbewijs: B<br/>
+                            Eigen vervoer: Ja<br/>
+                            </p>
+                        </div>
                     </div>              
                     <div className="row">
                     <h5>Skills</h5>
