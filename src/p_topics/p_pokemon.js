@@ -14,8 +14,9 @@ const p_pokemon = () => {
             </div>
             <div className="row">
             <div className="col text-center">
-                <p>My Unity Engine project</p>
-                <p>Over the past few years i have lost my work. I figured i could combine most of my skills by making a game. And who doesn't love Pokemon?</p>
+                <p className="pt-0">My Unity Engine project<br/>
+                Over the past few years i have lost my work. I figured i could combine most of my skills by making a game. And who doesn't love Pokemon?
+                </p>
                 <a href={"/sapoketa.html"} target="_blank">Click here to give it a go!</a>
             </div>
         </div>
