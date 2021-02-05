@@ -19,11 +19,13 @@ const Skills = [
     {name: "ASM", exp: 1},
 ];
 const Assets = [
+    {name: "JQuery", exp: 4}, 
     {name: "Symfony", exp: 3}, 
+    {name: "React.js", exp: 3}, 
     {name: "Wordpress", exp: 3},  
-    {name: "Bootstrap", exp: 5},    
-    {name: "Magento", exp: 2},   
-    {name: "Unix OS", exp: 3},   
+    {name: "Bootstrap", exp: 4},    
+    {name: "Magento", exp: 1},   
+    {name: "Unix OS", exp: 2},   
     {name: "Unity Engine", exp: 4},   
 ];
 
